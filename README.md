@@ -1,4 +1,4 @@
-Industrial Electronics Enclosure Design
+## Industrial Electronics Enclosure Design
 
 ## Project Overview
 

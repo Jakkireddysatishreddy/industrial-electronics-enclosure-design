@@ -104,5 +104,5 @@ The enclosure was designed considering:
 
 ## Author
 
-Satish Reddy
-Mechanical Design Engineer
+Jakkireddy Satish Reddy
+- Mechanical Design Engineer

@@ -52,7 +52,7 @@ connector accessibility, manufacturability, and maintenance.
 
 ## CAD Design
 
-[Add images here]
+
 
 ## FEA
 
@@ -105,4 +105,5 @@ The enclosure was designed considering:
 ## Author
 
 Jakkireddy Satish Reddy
-- Mechanical Design Engineer
+
+Mechanical Design Engineer
